@@ -1,0 +1,27 @@
+.top-container {
+  display: flex;
+  flex-direction: row;
+}
+.image-icon {
+  height: 30px;
+  width: 30px;
+  margin: 30px;
+  color: green;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+.heading {
+  color: white;
+}
+.card-container {
+  background-color: #161625;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+}
+.main-heading {
+  color: green;
+}
